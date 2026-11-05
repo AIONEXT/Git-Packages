@@ -42,7 +42,7 @@
   },
   "dependencies": {
     "kafkajs": "^2.2.4",
-    "zod": "^3.22.4",
+    "zod": "^4.6.7",
     "@kafkajs/consumer-group": "^1.0.0",
     "pino": "^8.17.2",
     "pino-pretty": "^10.3.1"
@@ -56,7 +56,7 @@
     "eslint-plugin-prettier": "^5.1.3",
     "prettier": "^3.2.4",
     "typescript": "^5.3.3",
-    "vitest": "^1.2.0",
+    "vitest": "^5.1.0",
     "@vitest/coverage-v8": "^1.2.0",
     "testcontainers": "^10.9.0",
     "@types/jest": "^29.5.11"
